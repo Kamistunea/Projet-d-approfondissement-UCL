@@ -1,0 +1,33 @@
+body {
+background-color: powderblue;
+ }
+#recherche {
+	float:right;
+	right:5%;
+			}
+
+div.table {
+    display: table-row;
+}
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+input {
+	border:1px solid black;
+}
+.bordure {
+	border:3px solid black;
+	margin:0 10%;
+	padding:10px;
+			}
+img {
+width:150px;
+height:50px;
+vertical-align:middle;}
+}
+
