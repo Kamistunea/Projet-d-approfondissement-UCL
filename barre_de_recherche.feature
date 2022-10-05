@@ -4,11 +4,11 @@ Pour savoir les nouveautés des incidents sur Louvain-La-Neuve , il faut juste c
 Scénario : incident trouvé
 Etant donné que vous êtes déjà connecté
 Et vous avez bien entré le mot clé pour l’incident que vous cherchez
-Et l’incident que vous cherché a été déjà signaler par quelqu’un
+Et l’incident que vous cherchez a été déjà signalé par quelqu’un
 Lorsque vous cliquez sur chercher
 Alors vous trouverez l’incident que vous cherchez
 
 Scénario : pas d’incident
-Étant donné que personne n’a pas signaler un incident
+Étant donné que personne a signalé un incident
 Lorsque vous cliquez sur chercher
-Alors la barre de recherche affiche que y en a pas d’incident
+Alors la barre de recherche affiche qu'il n'y a pas d’incident
